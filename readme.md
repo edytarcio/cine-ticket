@@ -1,29 +1,84 @@
 
-# CineTicket
-Movie Ticket Selling System 
+# CineTicket 
+###*Movie Ticket Selling System*
 
-Flask-RESTful provides the building blocks for creating a great REST API.
-CineTicket is a movie ticket selling system 
+CineTicket is an application for managing the selling of tickets in movie theathers. The
+client-side of the application is written in [ExtJs 4](http://www.sencha.com/) and the server-side will be written in
+Python.
 
-## User Guide
+This application is also an effort for mastering the essentials of [Application Architecture](http://msdn.microsoft.com/en-us/library/ff650706.aspx), so I hope this will be useful for anyone with the same interest as this project is intended.
 
-You'll find the user guide and all documentation [here](http://flask-restful.readthedocs.org/en/latest/)
+## Project Structure
+
+The organization of this application is as follow:
+
+```
+app/                --> This folder contains all Javascript files for the application. 
+                        The client-side follows the MVC Architecture.
+    controller/     
+ 
+# CineTicket 
+###*Movie Ticket Selling System*
+
+CineTicket is an application for managing the selling of tickets in movie theathers. The
+client-side of the application is written in [ExtJs 4](http://www.sencha.com/) and the server-side will be written in
+Python.
+
+This application is also an effort for mastering the essentials of [Application Architecture](http://msdn.microsoft.com/en-us/library/ff650706.aspx), so I hope this will be useful for anyone with the same interest as this project is intended.
+
+## Project Structure
+
+The organization of this application is as follow:
+
+```
+app/                --> This folder contains all Javascript files for the application. 
+                        The client-side follows the MVC Architecture.
+    controller/     
+    data/
+    model/
+    store/
+    view/
+data/
+    json/           --> Contains static data for the application.
+    python/         --> This folder contains the Python files for the application server-side.
+    extjs/          --> This folder contains the ExtJs SDK.
+    resources/      --> This folder contains static resources such as user images and css.
+    css/
+    images/
+```
 
 
-The organization of this Application is as follow:
+## Liscense
 
-# CineApp/app
-This folder contains the javascript files for the application.
+This project is liscenced under [GNU General Public Licence.](http://www.gnu.org/copyleft/gpl.html)
 
-# CineApp/data/json
-This folder contains static data for the application.
 
-# CineApp/data/python
-This folder contains the .py files for the application server-side.
+## Contribution
 
-# CineApp/extjs
-This folder contains the extjs skd. It will a link in the future.
+If you want to take part in this project I can send you a Todo list. Then fork the project and make your alterations following the same coding style. After that just send a pull request. 
 
-# CineApp/resources
-This folder contains static resources such as user images and css.
+Developers contributing to this project will have an additional section created.
 
+    model/
+    store/
+    view/
+data/
+    json/           --> Contains static data for the application.
+    python/         --> This folder contains the Python files for the application server-side.
+    extjs/          --> This folder contains the ExtJs SDK.
+    resources/      --> This folder contains static resources such as user images and css.
+    css/
+    images/
+```
+
+
+## Liscense
+
+This project is liscenced under [GNU General Public Licence.](http://www.gnu.org/copyleft/gpl.html)
+
+
+## Contribution
+
+If you want to take part in this project I can send you a Todo list. Then fork the project and make your alterations following the same coding style. After that just send a pull request. 
+
+Developers contributing to this project will have an additional section created.
