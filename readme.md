@@ -17,7 +17,8 @@ The organization of this application is as follow:
 
 
 ```
-app/                --> This folder contains all Javascript files for the applicat ion. The client-side follows the MVC Architecture.
+app/                --> This folder contains all Javascript files for the application. 
+                        The client-side follows the MVC Architecture.
     controller/     
     data/
     model/
@@ -26,8 +27,8 @@ app/                --> This folder contains all Javascript files for the applic
 data/
     json/           --> Contains static data for the application.
     python/         --> This folder contains the Python files for the application server-side.
-    extjs/          --> This folder contains the ExtJs SDK.
-    resources/      --> This folder contains static resources such as user images and css.
+extjs/              --> This folder contains the ExtJs SDK.
+resources/          --> This folder contains static resources such as user images and css.
     css/
     images/
     
