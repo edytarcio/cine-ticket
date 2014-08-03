@@ -1,0 +1,50 @@
+.user {
+	background-image: url(../images/user.png) !important;
+}
+.user-delete {
+	background-image: url(../images/user_delete.png) !important;
+}
+.user-add {
+	background-image: url(../images/user_add.png) !important;
+}
+.user-edit {
+	background-image: url(../images/user_edit.png) !important;
+}
+.people {
+	background-image: url(../images/People.ico) !important;
+}
+.create {
+	background-image: url(../images/Create.ico) !important;
+}
+.delete {
+	background-image: url(../images/Delete.ico) !important;
+}
+.modify {
+	background-image: url(../images/Modify.ico) !important;
+}
+.save {
+	background-image: url(../images/Save.ico) !important;
+}
+.cancel {
+	background-image: url(../images/Cancel.ico) !important;
+}
+.film {
+	background-image: url(../images/Film.ico) !important;
+}
+.application {
+	background-image: url(../images/Application.ico) !important;
+}
+.about-text {
+    text-align: center;
+}
+.action-title {
+    font-size: 12px;
+	font-weight: bold;
+	color: black;
+}
+.logo {
+   
+	height: 130px;
+    background-repeat: no-repeat;
+    background-image: url(../images/logo-cinemathe.png) !important;
+}

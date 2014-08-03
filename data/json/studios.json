@@ -1,0 +1,9 @@
+{
+	success: true,
+	data: [
+		{ id: 1, name: 'Paramount' },
+		{ id: 2, name: 'Fox'},
+		{ id: 3, name: 'Pixar' }
+
+	]
+}

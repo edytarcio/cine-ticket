@@ -1,0 +1,14 @@
+{
+	success: true,
+	data: [
+		{ id: 1, description: 'Ação' },
+		{ id: 2, description: 'Aventura'},
+		{ id: 3, description: 'Ação/Aventura' },
+		{ id: 4, description: 'Drama' },
+		{ id: 5, description: 'Comédia' },
+		{ id: 6, description: 'Ficção' },
+		{ id: 7, description: 'Terror' },
+		{ id: 8, description: 'Suspense' },
+		{ id: 9, description: 'Animação' },
+		{ id: 10, description: 'Documentário' }	]
+}

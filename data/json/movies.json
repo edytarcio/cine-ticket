@@ -1,0 +1,40 @@
+{
+	success: true,
+	data: [
+		{	
+			id: 1,	
+			title: 'Hobbit: A Desolação de Smaug', 
+			gender: 'Ação/Aventura',
+			director: 'Arnold',
+			duration: 120,
+			studio: 'Paramount',
+			release: 2013,
+			rate: 'LIVRE'
+
+		},
+			{	
+			id: 2,	
+			title: 'Homem Aranha: A Ameça de Spectrum', 
+			gender: 'Ação',
+			director: 'Stiver Spilberg',
+			duration: 140,
+			studio: 'Fox',
+			release: 2014,
+			rate: '12'
+
+		},
+			{	
+			id: 3,	
+			title: 'A Culpa é das Estrelas', 
+			gender: 'Drama',
+			director: 'Stiver Spilberg',
+			duration: 125,
+			studio: 'Fox',
+			release: 2014,
+			rate: '14'
+
+		}
+	
+		
+	]
+}

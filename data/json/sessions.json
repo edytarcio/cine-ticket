@@ -1,0 +1,55 @@
+{
+	success: true,
+	data: [
+		{	
+
+			id: 1,
+	       	description: 'SESSAO 14:30h AS 16:40h',
+	       	movieDescription: 'E o Vento Levou',  
+	       	initialTime: '12:00',
+	       	finalTime: '13:00',
+	       	initialDate: '20140725',
+	       	finalDate: '20140725',
+	       	format: '3D',
+	       	roomDescription: 'SALA 03',
+	       	seats: 15,
+	       	audio: 'LEGENDADO',
+	       	classification: 'LIVRE',
+
+		},
+		{	
+
+			id: 2,
+	       	description: 'SESSAO 14:30h AS 16:40h',
+	       	movieDescription: 'E o Vento Levou',  
+	       	initialTime: '12:00',
+	       	finalTime: '13:00',
+	       	initialDate: '20140725',
+	       	finalDate: '20140725',
+	       	format: '3D',
+	       	roomDescription: 'SALA 03',
+	       	seats: 15,
+	       	audio: 'LEGENDADO',
+	       	classification: '12 ANOS'
+
+		},
+		{	
+
+			id: 3,
+	       	description: 'SESSAO 14:30h AS 16:40h',
+	       	movieDescription: 'E o Vento Levou',  
+	       	initialTime: '12:00',
+	       	finalTime: '13:00',
+	       	initialDate: '20140725',
+	       	finalDate: '20140725',
+	       	format: '3D',
+	       	roomDescription: 'SALA 03',
+	       	seats: 15,
+	       	audio: 'LEGENDADO',
+	       	classification: '14 ANOS'
+
+		}
+	
+		
+	]
+}

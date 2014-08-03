@@ -1,0 +1,28 @@
+{
+	success: true,
+	data: [
+		{ 
+			id: 1, 
+			description: 'Bilheria 01', 
+			ipAddress: '172.16.20.150',
+			status: 'Aberto',
+			operadorName: 'Claudenice'
+		},     
+		{ 
+			id: 2, 
+			description: 'Bilheria 02', 
+			ipAddress: '172.16.20.151',
+			status: 'Fechado',
+			operadorName: 'Marilene'
+		},    
+		{ 	
+			id: 3,  
+			description: 'Bilheria 03', 
+			ipAddress: '172.16.20.152',
+			status: 'Fechado',
+			operatorName: 'Claudia'
+		}    
+
+	]          
+}      
+  

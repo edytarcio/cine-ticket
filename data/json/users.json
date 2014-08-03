@@ -1,0 +1,41 @@
+{
+	success: true,
+	data: [
+		{
+			id: 1,	
+			firstName: 'Susana', 
+			lastName: 'da Silva', 
+			email: 'susana@gmail.com',
+			accessPriviledge: 'ADMINISTRATIVO',
+			login: 'susana',
+			password: '******'
+		},
+		{
+			id: 2,	
+			firstName: 'Antonia', 
+			lastName: 'de Jesus', 
+			email: 'antjis1@gmail.com',
+			accessPriviledge: 'ADMINISTRATIVO',
+			login: 'antonia',
+			password: '******'
+		},
+		{
+			id: 3,	
+			firstName: 'Patricula', 
+			lastName: 'Abravanel', 
+			email: 'patricia@sbt.com.br',
+			accessPriviledge: 'ADMINISTRATIVO',
+			login: 'patricia',
+			password: '******'
+		},
+		{
+			id: 4,	
+			firstName: 'Arilson', 
+			lastName: 'de Jesus Silva', 
+			email: 'arilson@gmail.com',
+			accessPriviledge: 'ADMINISTRATIVO',
+			login: 'arilson',
+			password: '******'
+		}
+	]
+}

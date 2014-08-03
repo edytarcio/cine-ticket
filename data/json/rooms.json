@@ -1,0 +1,9 @@
+{
+	success: true,
+	data: [
+		{ id: 1, description: 'Sala 01', seats: 200},
+		{ id: 2, description: 'Sala 02', seats: 150},
+		{ id: 3, description: 'Sala 03', seats: 300}
+
+	]     
+}  
