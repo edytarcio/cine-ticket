@@ -43,7 +43,7 @@ This project is licensed under [GNU General Public Licence.](http://www.gnu.org/
 
 ## Contribution 
 
-You contributions are welcome!
+Your contributions are welcome!
 
 If you want to take part in this project I can send you a Todo list. Then you fork the project
 and make your alterations following the same coding style. After that just send a pull request. 
