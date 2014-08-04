@@ -27,6 +27,7 @@ app/                --> This folder contains all Javascript files for the applic
 data/
     json/           --> Contains static data for the application.
     python/         --> This folder contains the Python files for the application server-side.
+docs/               --> Useful documentation for project
 extjs/              --> This folder contains the ExtJs SDK.
 resources/          --> This folder contains static resources such as user images and css.
     css/
