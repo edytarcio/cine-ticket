@@ -46,3 +46,5 @@ Alternatively, you can do a rebase:
 git rebase master
 
 
+# Deleting a remote branch
+sudo git push origin --delete readme_file
