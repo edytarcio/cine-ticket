@@ -38,7 +38,7 @@ resources/          --> This folder contains static resources such as user image
 
 ## License
 
-This project is liscenced under [GNU General Public Licence.](http://www.gnu.org/copyleft/gpl.html)
+This project is licenced under [GNU General Public Licence.](http://www.gnu.org/copyleft/gpl.html)
 
 
 ## Contribution 
