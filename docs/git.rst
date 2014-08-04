@@ -20,3 +20,29 @@ Step 2: Merge the changes and update on GitHub.
 git checkout master
 git merge --no-ff docs
 git push origin master
+
+
+## 
+
+
+You have two options:
+
+The first is a merge, but this creates an extra commit for the merge.
+
+Checkout each branch:
+
+git checkout b1
+
+Then merge:
+
+git merge origin/master
+
+Then push:
+
+git push origin master
+
+Alternatively, you can do a rebase:
+
+git rebase master
+
+
