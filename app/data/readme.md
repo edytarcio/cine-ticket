@@ -1,1 +1,0 @@
-What's the best practice for putting 'data' folder in a larger project?
